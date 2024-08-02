@@ -1,7 +1,7 @@
 {
-  "name": "Exercise 5",
-  "projectId": "90134da4-33fa-4e6b-a440-6b4932cf5468",
-  "description": "Hello World",
+  "name": "Exercise-8",
+  "projectId": "de9718b4-c278-49e4-80d8-844761833a6a",
+  "description": "Starting Browser",
   "main": "Main.xaml",
   "dependencies": {
     "UiPath.Excel.Activities": "[2.23.4]",
@@ -50,7 +50,7 @@
   "entryPoints": [
     {
       "filePath": "Main.xaml",
-      "uniqueId": "e93dda1f-70c7-4fde-97f8-ac0aff7fb6c7",
+      "uniqueId": "c89084d4-66b4-44ee-aec7-c2723ea44eed",
       "input": [],
       "output": []
     }
