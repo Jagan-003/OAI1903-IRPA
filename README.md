@@ -1,1 +1,1 @@
-this Git hub contains expriments of the irpa
+This Git hub contains expriments of the IRPA
